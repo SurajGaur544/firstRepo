@@ -1,6 +1,6 @@
 # firstRepo
-Author - Suraj Kumar <br>
-Hi, 
+Author - Suraj Kumar
+<br> Hi, <br> 
   My name is Suraj Kumar
   I am from Ambedkar Nagar District in Uttar Pradesh
   and my Education, I am completed Diploma in Computer Science & Engineering 
