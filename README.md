@@ -1,5 +1,5 @@
 # firstRepo
-Author - Suraj Kumar
+Author - Suraj Kumar <br>
 Hi, 
   My name is Suraj Kumar
   I am from Ambedkar Nagar District in Uttar Pradesh
